@@ -47,10 +47,7 @@ public class DataTypes {
 
     private static void task5() {
         div(infinity, infinity);
-        div(infinity, infinity);
-        div(infinity, infinity);
-        div(infinity, infinity);
-        
+
 
     }
 }
